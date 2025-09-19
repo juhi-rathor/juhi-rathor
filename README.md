@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juhi Rathor</h1>
-<h3 align="center">A passionate Front-end Developer from India</h3>
+<h3 align="center">A passionate React Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juhi-rathor" alt="juhi-rathor" /></a> </p>
 
