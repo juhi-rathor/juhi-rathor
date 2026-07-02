@@ -42,8 +42,6 @@ I am a **Computer Science Engineering graduate** and a dedicated **MERN Stack De
 
 ---
 
-### 📈 GitHub Stats
-[![Juhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhi-rathor&show_icons=true&theme=radical)](https://github.com/juhi-rathor)
 *   **Databases:** MongoDB, MySQL.
 *   **Programming Languages:** C, C++.
 *   **Developer & AI Tools:** Git, GitHub, GitHub Copilot, Cursor AI, Kiro AI, Codex, Antigravity, and Visual Studio Code.
@@ -58,9 +56,6 @@ I am a **Computer Science Engineering graduate** and a dedicated **MERN Stack De
 ### 💻 Notable Projects
 *   **Style Snap:** An e-commerce web application built with React.js and Bootstrap featuring custom routing and dynamic data rendering.
 *   **Foodano:** An interactive food-focused website developed with Bootstrap and CSS animations for an engaging user experience.
-
-### 📈 GitHub Stats
-[![Juhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhi-rathor&show_icons=true&theme=radical)](https://github.com/juhi-rathor)
 
 ---
 
