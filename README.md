@@ -58,7 +58,6 @@ I am a **Computer Science Engineering graduate** and a dedicated **MERN Stack De
 ### 💻 Notable Projects
 *   **Style Snap:** An e-commerce web application built with React.js and Bootstrap featuring custom routing and dynamic data rendering[cite: 1].
 *   **Foodano:** An interactive food-focused website developed with Bootstrap and CSS animations for an engaging user experience[cite: 1].
-*   **Currency Converter:** A responsive tool using real-time APIs and DOM manipulation to provide live exchange rates[cite: 1].
 
 ### 📈 GitHub Stats
 [![Juhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhi-rathor&show_icons=true&theme=radical)](https://github.com/juhi-rathor)
