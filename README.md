@@ -13,7 +13,7 @@ I am a **Computer Science Engineering graduate** and a dedicated **MERN Stack De
 
 - 🔭 I'm currently working as a **MERN Stack Developer**.
 - 💬 Ask me about **Full-stack web development and MERN architecture**.
-- 📫 How to reach me: [iamjuhirathor@gmail.com](mailto:iamjuhirathor@gmail.com)[cite: 1]
+- 📫 How to reach me: [iamjuhirathor@gmail.com](mailto:iamjuhirathor@gmail.com)
 - ⚡ Fun fact: I have 4+ years of experience in public speaking and leadership with Toastmasters International.
 
 ---
