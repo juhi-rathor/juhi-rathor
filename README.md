@@ -1,12 +1,3 @@
-# Hi there, I'm Juhi Rathor! 👋
-
-I am a **Computer Science Engineering graduate** and a dedicated **MERN Stack Developer** with a passion for building responsive, scalable, and user-centric web applications.
-
-### 🛠 Technical Skills
-*   **Web Development:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js, Next.js, Node.js, Express.js.<p align="center">
-  <img src="https://github.com/lewis-clark/lewis-clark/blob/master/stars.gif" alt="Stars" width="100%">
-</p>
-
 # Hi 👋, I'm Juhi Rathor
 
 ### A passionate MERN Stack Developer from India
