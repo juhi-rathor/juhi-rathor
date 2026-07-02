@@ -44,9 +44,9 @@ I am a **Computer Science Engineering graduate** and a dedicated **MERN Stack De
 
 ### 📈 GitHub Stats
 [![Juhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhi-rathor&show_icons=true&theme=radical)](https://github.com/juhi-rathor)
-*   **Databases:** MongoDB, MySQL[cite: 1].
-*   **Programming Languages:** C, C++[cite: 1].
-*   **Developer & AI Tools:** Git, GitHub, GitHub Copilot, Cursor AI, Kiro AI, Codex, Antigravity, and Visual Studio Code[cite: 1].
+*   **Databases:** MongoDB, MySQL.
+*   **Programming Languages:** C, C++.
+*   **Developer & AI Tools:** Git, GitHub, GitHub Copilot, Cursor AI, Kiro AI, Codex, Antigravity, and Visual Studio Code.
 
 ### 🚀 Professional Experience
 *   **MERN Stack Developer Intern (Robotronix Engineering Tech Pvt Ltd):** Engineered full-stack applications, built RESTful APIs with Node.js/Express, and managed data using Mongoose and MongoDB[cite: 1]. Developed dynamic UIs with React, implementing secure communication and real-time user feedback[cite: 1].
