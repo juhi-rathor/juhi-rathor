@@ -48,10 +48,10 @@ I am a **Computer Science Engineering graduate** and a dedicated **MERN Stack De
 
 ### 🚀 Professional Experience
 *   **MERN Stack Developer Intern (Robotronix Engineering Tech Pvt Ltd):** Engineered full-stack applications, built RESTful APIs with Node.js/Express, and managed data using Mongoose and MongoDB. Developed dynamic UIs with React, implementing secure communication and real-time user feedback.
-*   **Frontend Developer Intern (Alphawizz Technologies Pvt Ltd):** Built and maintained responsive, cross-browser compatible user interfaces using HTML, CSS, and Bootstrap[cite: 1]. Utilized React to develop reusable UI components and manage complex state transitions.
+*   **Frontend Developer Intern (Alphawizz Technologies Pvt Ltd):** Built and maintained responsive, cross-browser compatible user interfaces using HTML, CSS, and Bootstrap. Utilized React to develop reusable UI components and manage complex state transitions.
 
 ### 🏆 Leadership & Community
-*   **Toastmasters International:** Over 4 years of active participation in leadership and public speaking programs[cite: 1]. Held key executive roles including **Vice President Education**, **Vice President Public Relations**, **Club Secretary**, and **Sergeant at Arms**.
+*   **Toastmasters International:** Over 4 years of active participation in leadership and public speaking programs. Held key executive roles including **Vice President Education**, **Vice President Public Relations**, **Club Secretary**, and **Sergeant at Arms**.
 
 ### 💻 Notable Projects
 *   **Style Snap:** An e-commerce web application built with React.js and Bootstrap featuring custom routing and dynamic data rendering.
