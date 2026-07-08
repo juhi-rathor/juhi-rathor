@@ -1,8 +1,8 @@
-# Hi 👋, I'm Juhi Rathor
+# Hi 👋, I'm Juhi Rathor ⭐⭐
 
 <div align="center">
   
-  ✨ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+  ✨ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Problem+Solver;[...]
 
 </div>
 
@@ -60,10 +60,10 @@
 
 ### 🚀 Professional Experience
 *   **MERN Stack Developer Intern (Robotronix Engineering Tech Pvt Ltd):** Engineered full-stack applications, built RESTful APIs with Node.js/Express, and managed data using Mongoose and MongoDB.
-*   **Frontend Developer Intern (Alphawizz Technologies Pvt Ltd):** Built and maintained responsive, cross-browser compatible user interfaces using HTML, CSS, and Bootstrap. Utilized React to develop interactive and dynamic web applications.
+*   **Frontend Developer Intern (Alphawizz Technologies Pvt Ltd):** Built and maintained responsive, cross-browser compatible user interfaces using HTML, CSS, and Bootstrap. Utilized React to deve[...]
 
 ### 🏆 Leadership & Community
-*   **Toastmasters International:** Over 4 years of active participation in leadership and public speaking programs. Held key executive roles including Vice President Education, Vice President Membership, and other leadership positions.
+*   **Toastmasters International:** Over 4 years of active participation in leadership and public speaking programs. Held key executive roles including Vice President Education, Vice President Mem[...]
 
 ### 💻 Notable Projects
 *   **Style Snap:** An e-commerce web application built with React.js and Bootstrap featuring custom routing and dynamic data rendering.
@@ -73,9 +73,3 @@
 *   **Email:** [iamjuhirathor@gmail.com](mailto:iamjuhirathor@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/juhi-rathor](https://www.linkedin.com/in/juhi-rathor/)
 *   **GitHub:** [github.com/juhi-rathor](https://github.com/juhi-rathor)
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=juhi-rathor&label=Profile%20Views&color=0e75b6&style=flat)
-  
-</div>
