@@ -37,7 +37,8 @@
 ---
 
 ### 📚 Additional Skills
-*   **Programming Languages:** C, C++, JavaScript
+*   **Programming Languages:** C, C++
+*   **Interpersonal Skills:** Effective Communication, Emotional Intelligence, Active Listening, Self-awareness, Adaptability, Conscientiousness
 
 ### 🚀 Professional Experience
 *   **MERN Stack Developer Intern (Robotronix Engineering Tech Pvt Ltd):** Engineered full-stack applications, built RESTful APIs with Node.js/Express, and managed data using Mongoose and MongoDB.
