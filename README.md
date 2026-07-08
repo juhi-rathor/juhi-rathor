@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ✨ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Problem+Solver;Tech+Enthusiast;Proficient+Communicator" alt="Typing SVG" /> ✨
+  ✨ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 
 </div>
 
@@ -36,7 +36,7 @@
 
 #### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23005C7B.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🛠 Developer Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -60,10 +60,10 @@
 
 ### 🚀 Professional Experience
 *   **MERN Stack Developer Intern (Robotronix Engineering Tech Pvt Ltd):** Engineered full-stack applications, built RESTful APIs with Node.js/Express, and managed data using Mongoose and MongoDB.
-*   **Frontend Developer Intern (Alphawizz Technologies Pvt Ltd):** Built and maintained responsive, cross-browser compatible user interfaces using HTML, CSS, and Bootstrap. Utilized React to develop dynamic, user-centric applications.
+*   **Frontend Developer Intern (Alphawizz Technologies Pvt Ltd):** Built and maintained responsive, cross-browser compatible user interfaces using HTML, CSS, and Bootstrap. Utilized React to develop interactive and dynamic web applications.
 
 ### 🏆 Leadership & Community
-*   **Toastmasters International:** Over 4 years of active participation in leadership and public speaking programs. Held key executive roles including **Vice President Education**, **Vice President Membership**, and **Area Director**.
+*   **Toastmasters International:** Over 4 years of active participation in leadership and public speaking programs. Held key executive roles including Vice President Education, Vice President Membership, and other leadership positions.
 
 ### 💻 Notable Projects
 *   **Style Snap:** An e-commerce web application built with React.js and Bootstrap featuring custom routing and dynamic data rendering.
