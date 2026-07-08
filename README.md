@@ -1,10 +1,4 @@
-# Hi 👋, I'm Juhi Rathor ⭐⭐
-
-<div align="center">
-  
-  ✨ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Problem+Solver;[...]
-
-</div>
+# Hi 👋, I'm Juhi Rathor
 
 ### A passionate MERN Stack Developer from India
 
@@ -60,10 +54,10 @@
 
 ### 🚀 Professional Experience
 *   **MERN Stack Developer Intern (Robotronix Engineering Tech Pvt Ltd):** Engineered full-stack applications, built RESTful APIs with Node.js/Express, and managed data using Mongoose and MongoDB.
-*   **Frontend Developer Intern (Alphawizz Technologies Pvt Ltd):** Built and maintained responsive, cross-browser compatible user interfaces using HTML, CSS, and Bootstrap. Utilized React to deve[...]
+*   **Frontend Developer Intern (Alphawizz Technologies Pvt Ltd):** Built and maintained responsive, cross-browser compatible user interfaces using HTML, CSS, and Bootstrap. Utilized React to develop dynamic and interactive components.
 
 ### 🏆 Leadership & Community
-*   **Toastmasters International:** Over 4 years of active participation in leadership and public speaking programs. Held key executive roles including Vice President Education, Vice President Mem[...]
+*   **Toastmasters International:** Over 4 years of active participation in leadership and public speaking programs. Held key executive roles including Vice President Education and Vice President Membership.
 
 ### 💻 Notable Projects
 *   **Style Snap:** An e-commerce web application built with React.js and Bootstrap featuring custom routing and dynamic data rendering.
