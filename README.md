@@ -11,6 +11,10 @@
 
 ### 🛠 Technologies & Tools
 
+#### 📝 Programming Languages
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 #### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,12 +37,20 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Kiro AI](https://img.shields.io/badge/Kiro%20AI-%23FF6B6B.svg?style=for-the-badge&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-%23412991.svg?style=for-the-badge&logoColor=white)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity%20IDE-%231E90FF.svg?style=for-the-badge&logoColor=white)
 
 ---
 
 ### 📚 Additional Skills
-*   **Programming Languages:** C, C++
-*   **Interpersonal Skills:** Effective Communication, Emotional Intelligence, Active Listening, Self-awareness, Adaptability, Conscientiousness
+*   Effective Communication
+*   Emotional Intelligence
+*   Active Listening
+*   Self-awareness
+*   Adaptability
+*   Conscientiousness
 
 ### 🚀 Professional Experience
 *   **MERN Stack Developer Intern (Robotronix Engineering Tech Pvt Ltd):** Engineered full-stack applications, built RESTful APIs with Node.js/Express, and managed data using Mongoose and MongoDB.
